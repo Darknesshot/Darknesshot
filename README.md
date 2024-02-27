@@ -1,19 +1,21 @@
-<h1> Hi there 👋</h1>
+# Olá! Eu sou Felipe Alves ✋
+
+![FelipeVFX GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknesshot&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia-a-dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
+
+## Email de contato: fa6765387@gmail.com
+
+<h3>O que estou fazendo agora</h3>
 <p>
-  Olá! eu sou Felipe Alve, sou um estudante que está iniciando na área de programação,
-  para que eu me aprofunde mais o conhecimento nessa grande área que é a programação.
+  Eu neste momento estou criando um projeto em html, css e javascript para feira de projeto que terá em minha escola, na qual terei  que criar um site para o nosso grupo que foi dividido em dois
 </p>
-
-
-<h1>Languages e Tools 💻</h1>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigth="40"/>
-
-
-
-
-<div>
-<a href="https://github.com/Darknesshot">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknesshot&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Darknesshot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
