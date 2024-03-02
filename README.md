@@ -17,5 +17,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 <h3>O que estou fazendo agora</h3>
 <p>
-  Eu neste momento estou criando um projeto em html, css e javascript para feira de projeto que terá em minha escola, na qual terei  que criar um site para o nosso grupo que foi dividido em dois
+  No moneto estou estudando mais python para criar um app para o um aplicativo, para um projeto da escola que irá nos avaliar.
 </p>
