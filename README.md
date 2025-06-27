@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe Alves ✋
 
-![FelipeVFX GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknesshot&show_icons=true&theme=radical)
+![FelipeVFX GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknesshot&show_icons=true&theme=radical 'Status do meu perfil')
 
 ## Tecnologias que eu uso no meu dia-a-dia
 
@@ -13,9 +13,5 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
 
-## Email de contato: fa6765387@gmail.com
-
 <h3>O que estou fazendo agora</h3>
-<p>
-  No moneto estou estudando mais python para criar um app para o um aplicativo, para um projeto da escola que irá nos avaliar.
-</p>
+No momento estou estudandomais sobre Banco de Dados e estou focado em criação de um projeto utilizando ReactJs para criação de um front-end, no qual será um bom aprendizado para os meus estudos em programação.
